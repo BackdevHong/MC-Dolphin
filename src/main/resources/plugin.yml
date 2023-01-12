@@ -1,0 +1,6 @@
+name: farmer
+version: '${version}'
+main: com.github.backdevhong.dolphin.Dolphin
+authors: [ BackdevHong ]
+description: 농부 플러그인
+website: Https://github.com/backdevhong
