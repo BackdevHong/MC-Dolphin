@@ -1,4 +1,4 @@
-name: farmer
+name: dolphinIntegratePlugin
 version: '${version}'
 main: com.github.backdevhong.dolphin.Dolphin
 authors: [ BackdevHong ]
